@@ -1,0 +1,15 @@
+cls -->clear terminal
+git config --global user.name  -->Rohith adding username
+git config --global user.email rohithpeddireddy24@gmail.com  -->adding mail
+git add index.js
+git add .
+git status
+git commit -m "First Commit"
+git log
+git remote add origin https://github.com/Rohith-1221/Gitpractice.git
+git remote  
+git branch
+git show dae049e0d38d158ee3757ef3ec925b92c7f(commit id)
+git checkout (commit id)
+git checkout (branch name) --switch between the branches
+git push origin  branch-name
